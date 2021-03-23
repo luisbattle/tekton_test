@@ -43,7 +43,7 @@ spec:
           - name: revision
             value: master
           - name: url
-            value: https://github.com/ncskier/myapp
+            value: https://github.com/luisbattle/tekton_test
 EOF
 ```
 
